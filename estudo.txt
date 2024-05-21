@@ -1,0 +1,10 @@
+Fonte: https://www.youtube.com/watch?v=r1OhZTYz4-Q&list=PLAgbpJQADBGKbwhOvd9DVWy-xhA1KEGm1&index=3
+
+ORM - Object Relational Mapper - Mapeador de Objetos Relacionais
+
+- As tabelas do banco de dados são representadas através de classes e os registros de cada tabela são representados como instâncias das classes correspondentes.
+
+Banco de dados Relational       Programação Orientada a Objetos
+Tabela                      ->  Classes
+Coluna                      ->  Atributo
+Registro                    ->  Objetos
